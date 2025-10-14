@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual env
+venv/
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Data & artifacts
+*.tsv
+*.csv
+!clean_data.csv
+!trending_products.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Large media
+*.mov
+*.mp4
+!static/v.mp4
