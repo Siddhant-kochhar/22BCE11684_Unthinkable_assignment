@@ -1,5 +1,10 @@
 # E-commerce Product Recommender (with LLM Explanations)
 
+## **🎥 Project Demo Video**
+**[📹 WATCH PROJECT DEMO](https://drive.google.com/file/d/1vthAC1xe4L9SJK1_gnOmpq_b_3VJjGsZ/view?usp=sharing)** 
+
+---
+
 This project combines a content-based recommender with an LLM that explains "why this product" to the user. It includes a FastAPI backend, a minimal frontend, and optional Google Form onboarding.
 
 ## ✅ Alignment with Brief
