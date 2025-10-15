@@ -32,3 +32,4 @@ venv/
 *.mov
 *.mp4
 !static/v.mp4
+!22BCE11684_Ecommerce_product_recommender.mp4
